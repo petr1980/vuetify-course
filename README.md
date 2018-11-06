@@ -1,11 +1,7 @@
-<<<<<<< HEAD
+
 # vuetify-course
 Learn vuetify course from WMS
-=======
-<<<<<<< HEAD
-# vuetify-course
-Learn vuetify course from WMS
-=======
+
 # vuetify
 
 ## Project setup
@@ -27,5 +23,3 @@ npm run build
 ```
 npm run lint
 ```
->>>>>>> petr-commit
->>>>>>> petr-commit
